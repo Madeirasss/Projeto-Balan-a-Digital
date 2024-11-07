@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Users/vboxuser/Desktop/trabalho balanca/projetobalancadestavezvaisfuncionar/peso_sem_tara.v} -lang verilog -prj projetobalancadestavezvaisfuncionar -o pesosemtara.spl -module pesosemtara -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 pesosemtara.spl {C:/Users/vboxuser/Desktop/trabalho balanca/projetobalancadestavezvaisfuncionar/pesosemtara.sym} 

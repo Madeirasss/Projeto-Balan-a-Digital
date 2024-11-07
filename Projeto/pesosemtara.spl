@@ -1,0 +1,8 @@
+[Inputs]
+=entrada[15:0]=
+[Outputs]
+=resultado[15:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel pesosemtara
+

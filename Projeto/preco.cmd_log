@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Users/vboxuser/Desktop/trabalho balanca/projetobalancadestavezvaisfuncionar/preco.v} -lang verilog -prj projetobalancadestavezvaisfuncionar -o preco.spl -module preco -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 preco.spl {C:/Users/vboxuser/Desktop/trabalho balanca/projetobalancadestavezvaisfuncionar/preco.sym} 

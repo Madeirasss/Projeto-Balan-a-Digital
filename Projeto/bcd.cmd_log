@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Users/vboxuser/Desktop/trabalho balanca/projetobalancadestavezvaisfuncionar/bcd.v} -lang verilog -prj projetobalancadestavezvaisfuncionar -o bcd.spl -module bcd -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 bcd.spl {C:/Users/vboxuser/Desktop/trabalho balanca/projetobalancadestavezvaisfuncionar/bcd.sym} 

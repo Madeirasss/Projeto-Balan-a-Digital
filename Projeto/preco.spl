@@ -1,0 +1,10 @@
+[Inputs]
+=peso[31:0]=
+=preco[31:0]=
+[Outputs]
+=saida_peso[31:0]=
+=saida_preco[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel preco
+
