@@ -1,2 +1,2 @@
 # Projeto-Balanca-Digital
-Projeto SD
+Projeto Sistemas Digitais 2023/2024
