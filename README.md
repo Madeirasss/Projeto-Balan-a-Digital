@@ -1,2 +1,2 @@
-# Projeto-Balan-a-Digital
+# Projeto-Balanca-Digital
 Projeto SD
